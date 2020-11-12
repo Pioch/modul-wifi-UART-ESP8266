@@ -1,0 +1,3 @@
+Do utworzonego projektu nale¿y zainstalowaæ bibliotekê pyserial
+
+Uruchamianie: tworzenie_serwera -> komunikacja2 -> klient2
